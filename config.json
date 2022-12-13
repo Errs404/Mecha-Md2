@@ -1,0 +1,98 @@
+{
+  "botname": "MechaBot-MD",
+  "botname2": "MechaBot",
+  "ownerNumber": [
+    "6283862323152",
+    "6281313943827"
+  ],
+  "openaiapi": "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",
+  "mainten": false,
+  "Limit": 30,
+  "Reset_Time": {
+    "Hour": "6",
+    "Minute": "00"
+  },
+  "game_time": {
+    "upper": 60,
+    "lowwer": 30
+  },
+  "mecha_image": "./src/images/mecha.jpg",
+  "sewa_image": "./src/images/sewa.jpeg",
+  "prefix": [
+    "!",
+    "°",
+    "•",
+    "π",
+    "÷",
+    "×",
+    "¶",
+    "∆",
+    "£",
+    "¢",
+    "€",
+    "¥",
+    "®",
+    "™",
+    "✓",
+    "_",
+    "=",
+    "|",
+    "~",
+    "?",
+    "@",
+    "#",
+    "$",
+    "%",
+    "^",
+    "&",
+    ".",
+    "/",
+    "\/",
+    "©",
+    "^",
+    " "
+  ],
+  "ownername": "Jeruk Perassz",
+  "igsession": "-",
+  "unicode": {
+    "head": "⬣",
+    "list": "⬡",
+    "body": "┃",
+    "upper": "┏",
+    "lowwer": "┛",
+    "down": "┗",
+    "line": "━",
+    "priority": [
+      "「",
+      "」"
+    ],
+    "wings": [
+      "𓆩 ",
+      " 𓆪"
+    ],
+    "needed": [
+      "<",
+      ">"
+    ],
+    "optional": [
+      "(",
+      ")"
+    ]
+  },
+  "response": {
+    "owner": "Khusus Owner",
+    "admin": "Khusus Admin",
+    "query": "Yang di cari apa?",
+    "group": "Khusus didalam Grup | Only Group",
+    "wait": "*WAIT! | Mohon Tunggu Sebentar...*",
+    "private": "Hanya bisa digunakan dipribadi Bot | Can only be used in private bot",
+    "notUrl": "Link Invalid",
+    "media": "Pesan Harus Berbentuk Media | Message Must be in the form of Media",
+    "mentioned": "Tag Member ",
+    "quoted": "Tag Pesannya Bang",
+    "_media": "Kirim/Reply Pesan Media Atau Tag Pesan Yang Terdapat Media | Send Media Messages Or Tag Messages That Have Media",
+    "Error": "Terjadi Kesalahan Saat Mengambil Data Tersebut | An Error Occurred While Retrieving The Data",
+    "fromMe": "Pesan Yang Di Balas Harus Dari Bot",
+    "clientAdmin": "Bot Nya Jadiin Admin Dong"
+  }
+}

@@ -1,0 +1,20 @@
+{
+     "status": true,
+     "game": "created",
+     "statusUser": {
+          "benar": [],
+          "salah": []
+     },
+     "jidUser": {
+          "benar": [],
+          "salah": []
+     },
+     "sesi": "120363028906652933@g.us",
+     "regexp": "[\b(?!profesormanafmerupakanjebolandariuniversitasconnecticut)S+\b$]",
+     "tertebak": [],
+     "kata_belum_ditebak": "profesormanafmerupakanjebolandariuniversitasconnecticut",
+     "kata": " _  _  _  _  _  _  _  _   _  _  _  _  _   _  _  _  _  _  _  _  _  _   _  _  _  _  _  _  _   _  _  _  _   _  _  _  _  _  _  _  _  _  _  _   _  _  _  _  _  _  _  _  _  _  _ ",
+     "kata_ori": "profesor manaf merupakan jebolan dari universitas connecticut",
+     "kata_tersisa": 7,
+     "hangman": "\r\n------+\r\n  |       |\r\n  |     \r\n  |       \r\n  |\r\n  |\r\n==========="
+}

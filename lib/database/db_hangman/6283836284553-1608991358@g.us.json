@@ -1,0 +1,38 @@
+{
+     "status": false,
+     "message": "Kata salah!",
+     "game": "playing",
+     "statusUser": {
+          "benar": [
+               "DikaFH22",
+               "DikaFH22",
+               "Nyarlathotep # Skizo"
+          ],
+          "salah": [
+               "RuHend"
+          ]
+     },
+     "jidUser": {
+          "benar": [
+               "6287706372454@s.whatsapp.net",
+               "6287706372454@s.whatsapp.net",
+               "212706611366@s.whatsapp.net"
+          ],
+          "salah": [
+               "6283122886524@s.whatsapp.net"
+          ]
+     },
+     "ditebak": "RuHend",
+     "sesi": "6283836284553-1608991358@g.us",
+     "regexp": "[\b(?!kumengukurertddengnltengukurertdn)S+\b$]",
+     "tertebak": [
+          "a",
+          "b",
+          "p"
+     ],
+     "kata_belum_ditebak": "kumengukurertddengnltengukurertdn",
+     "kata": "a _  _   _  _  _  _  _  _  _  _  b _  _ a _  ba _ a  _  _  _  _ a _  a _ a _  p _  _  _  _  _  _  _  b _  _ a _  ba _ a _ ",
+     "kata_ori": "aku mengukur berat bada dengan alat pengukur berat badan",
+     "kata_tersisa": 6,
+     "hangman": "\r\n------+\r\n  |       |\r\n  |     😄\r\n  |\r\n  |\r\n  |\r\n==========="
+}

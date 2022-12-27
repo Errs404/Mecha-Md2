@@ -1,0 +1,27 @@
+{
+     "status": true,
+     "game": "playing",
+     "statusUser": {
+          "benar": [
+               "Rafif"
+          ],
+          "salah": []
+     },
+     "jidUser": {
+          "benar": [
+               "6285314465958@s.whatsapp.net"
+          ],
+          "salah": []
+     },
+     "ditebak": "Rafif",
+     "sesi": "6285314465958@s.whatsapp.net",
+     "regexp": "[\b(?!slurninternettelhterhubungsmpikepelosokpelosokkmpung)S+\b$]",
+     "tertebak": [
+          "a"
+     ],
+     "kata_belum_ditebak": "slurninternettelhterhubungsmpikepelosokpelosokkmpung",
+     "kata": " _ a _  _  _ a _   _  _  _  _  _  _  _  _   _  _  _ a _   _  _  _  _  _  _  _  _  _   _ a _  _ a _   _  _   _  _  _  _  _  _  _ - _  _  _  _  _  _  _   _ a _  _  _  _  _ ",
+     "kata_ori": "saluran internet telah terhubung sampai ke pelosok-pelosok kampung",
+     "kata_tersisa": 7,
+     "hangman": "\r\n------+\r\n  |       |\r\n  |     \r\n  |       \r\n  |\r\n  |\r\n==========="
+}

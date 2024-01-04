@@ -1,6 +1,6 @@
 {
-  "name": "Zbin-Wabot",
-  "version": "2.5.4",
+  "name": "Mecha-Log",
+  "version": "3.5.4",
   "description": "Bot Wea Mudah Digunakan",
   "main": "main.js",
   "directories": {
@@ -13,10 +13,12 @@
     "build": "tsc --project ./node_modules/@adiwajshing/baileys/tsconfig.json"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "^4.4.0",
+    "@adiwajshing/baileys": "npm:@whiskeysockets/baileys",
+    "@adiwajshing/keyed-db": "^0.2.4",
     "aki-api": "^6.0.8",
     "axios": "^1.2.2",
     "cheerio": "^1.0.0-rc.12",
+    "child_process": "^1.0.2",
     "fake-useragent": "^1.0.1",
     "file-type": "^9.0.0",
     "fluent-ffmpeg": "^2.1.2",
@@ -41,7 +43,6 @@
     "qrcode-terminal": "^0.12.0",
     "spinnies": "^0.5.1",
     "stream": "^0.0.2",
-    "tiktok-down": "^1.1.8",
     "tiktok-scraper-without-watermark": "github:MRHRTZ/Tiktok-Scraper-Without-Watermark",
     "wombo-dream-api": "^0.1.6",
     "yarn": "^1.22.19",

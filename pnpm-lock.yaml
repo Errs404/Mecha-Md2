@@ -5,7 +5,7 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
-  '@adiwajshing/baileys':
+  '@whiskeysockets/baileys':
     specifier: npm:@whiskeysockets/baileys
     version: /@whiskeysockets/baileys@6.5.0(jimp@0.16.13)(qrcode-terminal@0.12.0)
   '@adiwajshing/keyed-db':

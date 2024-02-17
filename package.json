@@ -10,10 +10,10 @@
   },
   "scripts": {
     "start": "node index.js",
-    "build": "tsc --project ./node_modules/@adiwajshing/baileys/tsconfig.json"
+    "build": "tsc --project ./node_modules/@whiskeysockets/baileys/tsconfig.json"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "npm:@whiskeysockets/baileys",
+    "@whiskeysockets/baileys": "npm:@whiskeysockets/baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "aki-api": "^6.0.9",
     "axios": "^1.2.2",
